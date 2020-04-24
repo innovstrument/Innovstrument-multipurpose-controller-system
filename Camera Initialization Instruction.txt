@@ -1,9 +1,0 @@
-Environment initialization Test:
-# Environment requirement:ffmpeg, please mention environment variables.
-# Set
-# List Camera Devices
-ffmpeg -list_devices true -f dshow -i dummy
-# In this sample, the camera name is "HD Webcam C615"
-ffmpeg -f dshow -i video="HD Webcam C615" out_2.mp4
-# Activate HLS Steaming. Please mention function "-rtbufsize", increase value will enhance thread stablity.
-ffmpeg -y -rtbufsize 1024M -f dshow -i video="HD Webcam C615" -vcodec libx264 -f hls -hls_time 2.0 -hls_list_size 0 -hls_wrap 15 C:\inetpub\wwwroot\Webcam\Buffer\Cam01\Cam01.m3u8

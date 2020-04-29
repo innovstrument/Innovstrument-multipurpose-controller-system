@@ -18,12 +18,23 @@
 
 ### 主机板 Motherboard
 
+基于Intel Apollo Lake平台，提供的扩展性能如下：
+
+·显示：Display Port
+
+·外设输出： 4* USB 3.0 
+
+·网络：2* Intel i211
 
 
 
 
 ### 模拟-数字信号转换控制模块 Analog-Digital Signal Convert and Control Module
 
+
+
+
+### 测试平台：
 
 
 

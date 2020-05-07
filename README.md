@@ -26,12 +26,17 @@
 
 ·网络：2* Intel i211
 
+·
+
+·
+
+#
 
 
 
 ### 模拟-数字信号转换控制模块 Analog-Digital Signal Convert and Control Module
 
-
+·芯片 Analog Devices BF706: https://www.analog.com/cn/products/adsp-bf706.html#product-overview
 
 
 ### 测试平台：

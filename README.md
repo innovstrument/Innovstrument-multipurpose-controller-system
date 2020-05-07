@@ -38,6 +38,12 @@
 
 ·芯片 Analog Devices BF706: https://www.analog.com/cn/products/adsp-bf706.html#product-overview
 
+·提供的模拟输入：16路电压型 16路电流型
+
+·提供的模拟输出：8路 10mA，0-5V.
+
+·采样精度：10 bit.
+
 
 ### 测试平台：
 

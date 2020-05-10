@@ -38,6 +38,8 @@
 
 ·芯片 Analog Devices BF706: https://www.analog.com/cn/products/adsp-bf706.html#product-overview
 
+·子通道控制 Analog Devices AD 5674：https://www.analog.com/media/en/technical-documentation/data-sheets/AD5674-5674R-5679-5679R.pdf
+
 ·提供的模拟输入：16路电压型 16路电流型
 
 ·提供的模拟输出：8路 10mA，0-5V.

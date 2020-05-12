@@ -46,6 +46,8 @@
 
 ·采样精度：10 bit.
 
+图纸位于目录/master/Hardware/Analog-Digital%20Convert%20System下，编辑需要使用Altium Designer。
+
 
 ### 测试平台：
 

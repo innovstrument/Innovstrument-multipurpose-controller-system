@@ -32,7 +32,7 @@
 
 #### 待解决问题
 
-·摄像头传感器定定型号+ASL Code
+·摄像头传感器：OmniVision OV5695 ，需要ASL CODE。
 
 
 

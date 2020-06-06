@@ -36,13 +36,13 @@
 
 #### 第二版需要的更新
 
-·所有PCIe通道从SFF-8612/8643口引出
+·剩余的4条PCIe通道从SFF-8612/8643口引出
 
 ·提供一个MIPI-DSI输出端子。
 
-·
+·板载存储从eMMC转换为microSD插槽
 
-·
+·显示接口变成mini DisplayPort或者使用USB Type-C连接器
 
 ·
 

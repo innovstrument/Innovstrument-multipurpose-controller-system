@@ -1,9 +1,9 @@
-# In-nov-strument-plasma-controller-system
+# Innovstrument-multipurpose-controller-system
 
 
 ## 第一节 综述 Comprehensive Presentation
 
-消毒机控制系统，旨在提供一套除传统PLC解决方案之外，基于系统单芯片（SoC）平台的解决方案。它可以提供的软、硬件功能包括但不限于以下几点：
+多用途控制系统，旨在提供一套除传统PLC解决方案之外，基于系统单芯片（SoC）平台的解决方案。它可以提供的软、硬件功能包括但不限于以下几点：
 
 ·实时的视频摄录和上传。
 
